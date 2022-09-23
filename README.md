@@ -8,8 +8,6 @@ This is my first CLI quiz app.This app helps you know how well you know me!? Thi
 
 ## Tech Stack
 - NodeJs
-- HTML5
-- CSS3
 - Replit
 - Chalk
 - Javascript
