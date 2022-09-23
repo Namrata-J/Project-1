@@ -2,6 +2,10 @@
 
 This is my first CLI quiz app.This app helps you know how well you know me!? This is just a fun game, would recommend you giving it a try!!
 
+![image](https://img.shields.io/github/issues/Namrata-J/Project-1)
+![image](https://img.shields.io/github/forks/Namrata-J/Project-1)
+![image](https://img.shields.io/github/stars/Namrata-J/Project-1)
+
 ## Tech Stack
 - NodeJs
 - HTML5
